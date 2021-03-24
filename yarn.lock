@@ -5741,8 +5741,9 @@ ledger-wallet-provider@2.0.1-beta.4:
     strip-hex-prefix "^1.0.0"
     web3-provider-engine "^13.3.3"
 
-"ledgerco@github:Neufund/ledgerjs#tomek/update_hid":
+ledgerco@Neufund/ledgerjs#tomek/update_hid:
   version "1.2.1"
+  uid "6ba988f95dd44e1badd5d8b912d95312372c8548"
   resolved "https://codeload.github.com/Neufund/ledgerjs/tar.gz/6ba988f95dd44e1badd5d8b912d95312372c8548"
   dependencies:
     node-hid "0.7.3"
@@ -10827,9 +10828,9 @@ websocket-driver@>=0.5.1:
     websocket-extensions ">=0.1.1"
 
 websocket-extensions@>=0.1.1:
-  version "0.1.1"
-  resolved "https://registry.yarnpkg.com/websocket-extensions/-/websocket-extensions-0.1.1.tgz#76899499c184b6ef754377c2dbb0cd6cb55d29e7"
-  integrity sha1-domUmcGEtu91Q3fC27DNbLVdKec=
+  version "0.1.4"
+  resolved "https://registry.yarnpkg.com/websocket-extensions/-/websocket-extensions-0.1.4.tgz#7f8473bc839dfd87608adb95d7eb075211578a42"
+  integrity sha512-OqedPIGOfsDlo31UNwYbCFMSaO9m9G/0faIHj5/dZFDMFqPTcx6UwqyOy3COEaEOg/9VsGIpdqn62W5KhoKSpg==
 
 whatwg-encoding@^1.0.1:
   version "1.0.1"
