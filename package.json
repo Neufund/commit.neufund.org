@@ -117,7 +117,7 @@
     "dotenv": "^4.0.0",
     "downloadjs": "^1.4.7",
     "invariant": "^2.2.2",
-    "jquery": "^3.2.1",
+    "jquery": "^3.5.0",
     "ledger-wallet-provider": "2.0.1-beta.4",
     "lodash": "^4.17.4",
     "lolex": "^2.1.3",
