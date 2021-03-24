@@ -5741,8 +5741,9 @@ ledger-wallet-provider@2.0.1-beta.4:
     strip-hex-prefix "^1.0.0"
     web3-provider-engine "^13.3.3"
 
-"ledgerco@github:Neufund/ledgerjs#tomek/update_hid":
+ledgerco@Neufund/ledgerjs#tomek/update_hid:
   version "1.2.1"
+  uid "6ba988f95dd44e1badd5d8b912d95312372c8548"
   resolved "https://codeload.github.com/Neufund/ledgerjs/tar.gz/6ba988f95dd44e1badd5d8b912d95312372c8548"
   dependencies:
     node-hid "0.7.3"
@@ -10021,9 +10022,9 @@ traverse@^0.6.6:
   integrity sha1-y99WD9e5r2MlAv7UD5GMFX6pcTc=
 
 tree-kill@^1.1.0:
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/tree-kill/-/tree-kill-1.1.0.tgz#c963dcf03722892ec59cba569e940b71954d1729"
-  integrity sha1-yWPc8DciiS7FnLpWnpQLcZVNFyk=
+  version "1.2.2"
+  resolved "https://registry.yarnpkg.com/tree-kill/-/tree-kill-1.2.2.tgz#4ca09a9092c88b73a7cdc5e8a01b507b0790a0cc"
+  integrity sha512-L0Orpi8qGpRG//Nd+H90vFB+3iHnue1zSSGmNOOCh1GLJ7rUKVwV2HvijphGQS2UmhUZewS9VgvxYIdgr+fG1A==
 
 trim-newlines@^1.0.0:
   version "1.0.0"
