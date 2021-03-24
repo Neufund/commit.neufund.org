@@ -39,7 +39,7 @@
     "chai-as-promised": "^7.1.1",
     "chai-enzyme": "^0.8.0",
     "chai-http": "^3.0.0",
-    "codecov": "^2.3.0",
+    "codecov": "^3.7.1",
     "concurrently": "^3.5.0",
     "css-loader": "^0.28.4",
     "del": "^3.0.0",
