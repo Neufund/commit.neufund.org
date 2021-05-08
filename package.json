@@ -119,7 +119,7 @@
     "invariant": "^2.2.2",
     "jquery": "^3.2.1",
     "ledger-wallet-provider": "2.0.1-beta.4",
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.21",
     "lolex": "^2.1.3",
     "lory.js": "^2.3.3",
     "material-ui": "^0.19.1",
