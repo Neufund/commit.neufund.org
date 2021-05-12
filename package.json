@@ -112,7 +112,7 @@
     "@types/chart.js": "^2.6.9",
     "bignumber.js": "^4.0.4",
     "bluebird": "^3.5.0",
-    "chart.js": "^2.7.0",
+    "chart.js": "^2.9.4",
     "classnames": "^2.2.5",
     "dotenv": "^4.0.0",
     "downloadjs": "^1.4.7",
